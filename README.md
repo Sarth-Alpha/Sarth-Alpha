@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarth-alpha&label=Profile%20views&color=0e75b6&style=flat" alt="sarth-alpha" /> </p>
 
-- 🌱 I’m currently learning **Cybersecurity.**
+- 🌱 I’m currently learning **Backend Development.**
 
 - 📫 How to reach me **sarthpatel793@gmail.com**
 
