@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarth-alpha&label=Profile%20views&color=0e75b6&style=flat" alt="sarth-alpha" /> </p>
 
-- 🌱 I’m currently learning about **Data Automation, Business Analysis and finance modelling.**
+- 🌱 I’m passionate to learn about **Data Automation, Business Analysis and finance modelling.**
 
 - 📫 How to reach me **sarthpatel793@gmail.com**
 
