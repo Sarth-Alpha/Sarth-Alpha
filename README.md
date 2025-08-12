@@ -1,9 +1,8 @@
 <h1 align="center">Hey 👋, I'm Sarth Patel</h1>
-<h3 align="center">I am passionate in learning about Data Analyst and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarth-alpha&label=Profile%20views&color=0e75b6&style=flat" alt="sarth-alpha" /> </p>
 
-- 🌱 I’m currently learning about **Data Automation, Business Analysis and finance modelling**
+- 🌱 I’m currently learning about **Data Automation, Business Analysis and finance modelling.**
 
 - 📫 How to reach me **sarthpatel793@gmail.com**
 
